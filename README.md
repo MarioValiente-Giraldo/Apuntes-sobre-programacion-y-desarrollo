@@ -1,6 +1,6 @@
 # Apuntes sobre programacion y desarrollo
 
-Colección de guías y apuntes técnicos sobre Angular y Claude Code.
+Colección de guías y apuntes técnicos sobre Angular, Arquitectura Hexagonal y Claude Code.
 
 ---
 
@@ -17,6 +17,11 @@ Colección de guías y apuntes técnicos sobre Angular y Claude Code.
 - [Testing Boilerplate](Angular/Angular%20Testing%20Boilerplate.md) — Configuración de tests unitarios con Jest y E2E con Playwright
 - [RxJS, NgRx y Jest](Angular/rxjs-ngrx-jest-guide.md) — Observables, BehaviorSubject, NgRx y testing con Jest
 - [Evolución Reactiva (PDF)](Angular/Evolución_Reactiva_Angular.pdf) — Documento sobre la evolución reactiva en Angular
+
+### Arquitectura Hexagonal
+
+- [Apuntes de Arquitectura Hexagonal](Arquitectura%20hexagonal/arquitectura_hexagonal.md) — Conceptos y principios de la arquitectura hexagonal (Ports & Adapters)
+- [The Hexagonal Blueprint (PDF)](Arquitectura%20hexagonal/The_Hexagonal_Blueprint.pdf) — Documento de referencia sobre la arquitectura hexagonal
 
 ### Claude
 
